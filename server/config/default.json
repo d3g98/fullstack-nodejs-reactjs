@@ -1,4 +1,4 @@
 {
     "mongoURI" : "mongodb://localhost:27017/fullstack-nodejs-reactjs",
-    "jsonSecret": "duong@1998"
+    "jwtSecret": "duong@1998"
 }
